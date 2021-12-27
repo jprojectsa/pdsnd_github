@@ -3,10 +3,10 @@
 2021-12-27
 
 ### Project Title
-Replace the Project Title
+Explore UD BikeShare Data
 
 ### Description
-Describe what your project is about and what it does
+Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and file for a dataset to analyze
 
 ### Files used
 Include the files used
